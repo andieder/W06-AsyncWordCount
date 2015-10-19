@@ -1,9 +1,9 @@
-package ch.hsr.mge.wordcount.data;
+package ch.hsr.mge.asyncwordcount.data;
 
 import java.util.Arrays;
 import java.util.List;
 
-import ch.hsr.mge.wordcount.R;
+import ch.hsr.mge.asyncwordcount.R;
 
 public class FileProvider {
 

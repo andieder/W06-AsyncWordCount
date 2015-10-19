@@ -1,4 +1,4 @@
-package ch.hsr.mge.wordcount.view;
+package ch.hsr.mge.asyncwordcount.view;
 
 import android.content.Context;
 import android.content.Intent;
@@ -15,9 +15,9 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import ch.hsr.mge.wordcount.R;
-import ch.hsr.mge.wordcount.data.WordCount;
-import ch.hsr.mge.wordcount.data.WordCountResult;
+import ch.hsr.mge.asyncwordcount.R;
+import ch.hsr.mge.asyncwordcount.data.WordCount;
+import ch.hsr.mge.asyncwordcount.data.WordCountResult;
 
 public class WordListActivity extends AppCompatActivity {
 

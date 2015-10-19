@@ -1,4 +1,4 @@
-package ch.hsr.mge.wordcount.domain;
+package ch.hsr.mge.asyncwordcount.domain;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -7,8 +7,8 @@ import java.util.Hashtable;
 import java.util.List;
 import java.util.Locale;
 
-import ch.hsr.mge.wordcount.data.SerializableList;
-import ch.hsr.mge.wordcount.data.WordCount;
+import ch.hsr.mge.asyncwordcount.data.SerializableList;
+import ch.hsr.mge.asyncwordcount.data.WordCount;
 
 
 /**

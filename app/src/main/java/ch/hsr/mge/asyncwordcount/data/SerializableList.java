@@ -1,4 +1,4 @@
-package ch.hsr.mge.wordcount.data;
+package ch.hsr.mge.asyncwordcount.data;
 
 import java.io.Serializable;
 import java.util.ArrayList;

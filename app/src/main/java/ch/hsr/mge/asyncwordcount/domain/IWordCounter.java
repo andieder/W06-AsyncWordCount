@@ -1,7 +1,7 @@
-package ch.hsr.mge.wordcount.domain;
+package ch.hsr.mge.asyncwordcount.domain;
 
-import ch.hsr.mge.wordcount.data.SerializableList;
-import ch.hsr.mge.wordcount.data.WordCount;
+import ch.hsr.mge.asyncwordcount.data.SerializableList;
+import ch.hsr.mge.asyncwordcount.data.WordCount;
 
 /**
  * Legt die Methodensignatur fest, um einen Text auf die
